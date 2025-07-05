@@ -1,2 +1,2 @@
-# YoungDev_Intern
+# YoungDevIntern_Artificial Intelligence_Tasks
 Internship Projects
